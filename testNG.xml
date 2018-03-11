@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name = "Cucumber test Suite">
+    <test name = "Cucumber Test">
+        <classes>
+            <class name = "stepDefinition.Test" />
+        </classes>
+    </test>
+</suite>
